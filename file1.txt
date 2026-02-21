@@ -1,2 +1,4 @@
 This is the first line to my awesome project.
 D:\0 ash java\rev PEP\Git practice\file1.txt
+
+This is my first edit of file1
